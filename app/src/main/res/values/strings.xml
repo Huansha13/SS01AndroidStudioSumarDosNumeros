@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SumarDosNumeros</string>
+    <string name="ingrese_primer_numero">Ingrese primer numero</string>
+    <string name="ingrese_segundo_numero">Ingrese segundo numero</string>
+    <string name="_0">0</string>
+    <string name="button">Button</string>
+</resources>
